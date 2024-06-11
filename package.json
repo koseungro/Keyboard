@@ -15,9 +15,9 @@
   },
   "samples": [
     {
-      "displayName": "Keyboard Sample Scene",
+      "displayName": "Sample Scenes",
       "description": "Sample for Keyboard",
-      "path": "Samples~/SampleScene"
+      "path": "Samples~/Scenes"
     }
   ]
 }
